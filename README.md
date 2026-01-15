@@ -15,13 +15,10 @@ It provides a clear and visually engaging way to track performance, identify tre
   - `XLOOKUP`
   - `SWITCH`
   - `IF`
-  - `SUMIFS`
-  - `COUNTIFS`
   - Date and text functions
 - **Pivot Tables & Pivot Charts**
 - **Slicers & Timelines**
 - **Conditional Formatting**
-- **Data Validation**
 
 ---
 
@@ -37,7 +34,6 @@ It provides a clear and visually engaging way to track performance, identify tre
   - Loyalty Card Status
   - Sales Amount
 
-> This dataset is intended for dashboarding and analytics practice.
 
 ---
 
@@ -52,8 +48,6 @@ It provides a clear and visually engaging way to track performance, identify tre
   - Highlights the most valuable customers
 - **Product-Level Insights**
   - Analyze sales by roast type and package size
-- **User-Friendly Design**
-  - Clean layout optimized for readability and usability
 - **100% Excel-Based**
   - No external BI tools required
 
@@ -63,15 +57,9 @@ It provides a clear and visually engaging way to track performance, identify tre
 - Sales performance analysis
 - Customer behavior insights
 - Product demand tracking
-- Excel dashboard portfolio project
-- Business intelligence practice using Excel
 
 ---
 
-## 📸 Dashboard Preview
-![Coffee Sales Dashboard](Screenshot%202026-01-15%20153001.png)
-
----
 
 ## 📌 Notes
 - This project showcases advanced Excel capabilities using Power Query and modern formulas.
